@@ -37,9 +37,11 @@ PakePlus is an MIT-licensed open source project with its ongoing development mad
 <table style="border-collapse: collapse; width: 100%; border: 1px solid #ddd;">
     <tr>
         <td align="center" style="border: 1px solid #ddd; padding: 20px;">
+            <a href="https://finevoice.ai/?ref=pakeplus" target="_blank">
             <img style="border-radius: 1.5rem" src="https://files.pakeplus.com/finevoice.png" width="100"/>
-            <h3 style="margin: 0"><a href="https://finevoice.ai/?ref=pakeplus" target="_blank">FineVoice</a></h3>
+            <h3 style="margin: 0">FineVoice</h3>
             <p style="margin: 0">Create Every Voice You Imagine</p>
+            </a>
         </td>
         <td align="center" style="border: 1px solid #ddd; padding: 20px;">
             <img style="border-radius: 1.5rem" src="https://avatars.githubusercontent.com/u/54536011?s=200&v=4" width="100"/>
@@ -59,9 +61,11 @@ PakePlus is an MIT-licensed open source project with its ongoing development mad
     </tr>
     <tr>
         <td align="center" style="border: 1px solid #ddd; padding: 20px;">
-            <img style="border-radius: 1.5rem" src="https://files.pakeplus.com/sichou.png" width="100"/>
-            <h3 style="margin: 0"><a href="https://code.silkapi.com" target="_blank">丝绸API</a></h3>
-            <p style="margin: 0">Specializing in providing high-speed and stable Codex API relay.</p>
+            <a href="https://code.silkapi.com" target="_blank">
+               <img style="border-radius: 1.5rem" src="https://files.pakeplus.com/sichou.png" width="100"/>
+                <h3 style="margin: 0">丝绸API</h3>
+                <p style="margin: 0">Specializing in providing high-speed and stable Codex API relay.</p>
+            </a>
         </td>
         <td align="center" style="border: 1px solid #ddd; padding: 20px;">
             <img style="border-radius: 1.5rem" src="https://avatars.githubusercontent.com/u/24789812?s=200&v=4" width="100"/>
